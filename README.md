@@ -86,7 +86,7 @@ Linux · Ubuntu · Amazon Linux
 ## 🌐 Connect with Me
 
 📧 **Email:** rafael.calderon.cloud@gmail.com  
-💼 **LinkedIn:** http://linkedin.com/in/rafael-calderon-462785317
+💼 **LinkedIn:** http://linkedin.com/in/rafael-calderon-462785317  
 🐙 **GitHub:** https://github.com/rafaelcalderon-cloud  
 
 ---
