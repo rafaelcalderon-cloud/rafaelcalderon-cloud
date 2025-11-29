@@ -3,7 +3,7 @@
 
 I’m a motivated and disciplined engineer-in-progress on the path to becoming a **Cloud, DevOps, and SRE professional**, specializing in AWS, infrastructure automation, CI/CD, and container orchestration.
 
-My goal is to work remotely for global companies and become highly skilled in:
+My goal is to build resilient, automated, and scalable cloud infrastructures that help companies reduce operational overhead and deliver faster, more reliable products. and become highly skilled in:
 
 - **Cloud Computing** (AWS / GCP / Azure)  
 - **DevOps practices** (CI/CD, automation, monitoring, IaC)  
